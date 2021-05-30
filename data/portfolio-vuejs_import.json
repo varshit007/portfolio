@@ -132,7 +132,7 @@
               "title": "pres_first",
               "key": "pres_first",
               "id": "d6tIa0Bibt",
-              "value": "I'm a Full-Stack Developer student. Actually, I have a Licence BAC+3 in IT and I just started a computer science Master specialized in artificial intelligence and collaborative systems. IT is not only my professional background. It is also and above all a passion that has grown since I was 16 years old."
+              "value": "I'm a Senior at UIUC. Actually, I have a Licence BAC+3 in IT and I just started a computer science Master specialized in artificial intelligence and collaborative systems. IT is not only my professional background. It is also and above all a passion that has grown since I was 16 years old."
             },
             {
               "children": null,
@@ -349,10 +349,6 @@
                   "img": "laravel.png"
                 },
                 {
-                  "title": "VueJS",
-                  "img": "vuejs.png"
-                },
-                {
                   "title": "Android",
                   "img": "android.png"
                 },
@@ -493,7 +489,7 @@
               "title": "title",
               "key": "title",
               "id": "Di7UyvvoeZ",
-              "value": "My projects"
+              "value": "Projects"
             },
             {
               "children": null,
